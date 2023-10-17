@@ -1,1 +1,1 @@
-## init the CROP COUNSEL project
+## Initalization the CROP COUNSEL project
