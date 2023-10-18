@@ -1,3 +1,8 @@
+
+#setup.py is a Python script used to build and install Python packages. 
+#It contains information about the package, such as its name, version, and dependencies, 
+#as well as instructions for building and installing the package. 
+
 from setuptools import find_packages,setup
 from typing import List
 
